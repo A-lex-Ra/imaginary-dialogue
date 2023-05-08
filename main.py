@@ -3,7 +3,7 @@ from telebot import types
 import gptapi
 
 
-bot = telebot.TeleBot('6278641533:AAFTELTI_DYVXVAfyQzgTqD9RSm4DFTEd1I')
+bot = telebot.TeleBot('Enter your bot token here')
 
 n = 0
 
